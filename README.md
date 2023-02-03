@@ -1,4 +1,4 @@
-# Spring Boot Hello World API-Pedro Bel
+# Spring Boot Hello World API-Pedro Be
 
 This is a small Spring-Boot Hello World application to demonstrate a quick and simple API.
 
